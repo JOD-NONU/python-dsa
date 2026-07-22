@@ -36,3 +36,4 @@ class Solution:
             if area > ans:
                 ans=area
         return ans
+    
